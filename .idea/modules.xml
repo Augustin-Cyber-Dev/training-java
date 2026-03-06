@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaTraining.iml" filepath="$PROJECT_DIR$/.idea/IdeaTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training1/training1.iml" filepath="$PROJECT_DIR$/training1/training1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training10/training10.iml" filepath="$PROJECT_DIR$/training10/training10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training11/training11.iml" filepath="$PROJECT_DIR$/training11/training11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training12/training12.iml" filepath="$PROJECT_DIR$/training12/training12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training13/training13.iml" filepath="$PROJECT_DIR$/training13/training13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training14/training14.iml" filepath="$PROJECT_DIR$/training14/training14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training15/training15.iml" filepath="$PROJECT_DIR$/training15/training15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training2/training2.iml" filepath="$PROJECT_DIR$/training2/training2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training3/training3.iml" filepath="$PROJECT_DIR$/training3/training3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training4/training4.iml" filepath="$PROJECT_DIR$/training4/training4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training5/training5.iml" filepath="$PROJECT_DIR$/training5/training5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training6/training6.iml" filepath="$PROJECT_DIR$/training6/training6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training7/training7.iml" filepath="$PROJECT_DIR$/training7/training7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training8/training8.iml" filepath="$PROJECT_DIR$/training8/training8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training9/training9.iml" filepath="$PROJECT_DIR$/training9/training9.iml" />
+    </modules>
+  </component>
+</project>
