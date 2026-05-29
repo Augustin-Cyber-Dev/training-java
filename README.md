@@ -1,55 +1,60 @@
-# 🔢 Jogo do Número Secreto
+# ☕ Training Java
  
-![STATUS](http://img.shields.io/static/v1?label=STATUS&message=CONCLU%C3%8DDO&color=GREEN&style=for-the-badge)
+![STATUS](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
  
 ## Índice
  
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Demonstração](#demonstração)
+- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
 - [Acesso ao Projeto](#acesso-ao-projeto)
 - [Autor](#autor)
-  
+
 ---
  
 ## Descrição do Projeto
  
-**Jogo do Número Secreto** é um jogo online de adivinhação onde o objetivo é descobrir um número misterioso escolhido aleatoriamente pelo sistema. A cada tentativa, o jogo informa se o número chutado é maior ou menor que o número secreto, guiando o jogador até a resposta correta.
+**Training Java** é um repositório de exercícios práticos desenvolvidos para consolidar e aprofundar os conhecimentos em Java. Cada pasta representa um módulo de treino diferente, cobrindo desde conceitos básicos de orientação a objetos até estruturas de dados e lógica de programação.
  
-O projeto foi desenvolvido como exercício prático de lógica de programação com JavaScript, HTML e CSS.
+O projeto foi criado com o objetivo de praticar de forma consistente e progressiva, simulando desafios reais do dia a dia de um desenvolvedor backend.
  
 ---
  
 ## Funcionalidades
  
-✔️ `Geração aleatória:` O número secreto é gerado automaticamente a cada rodada.
+✔️ `Módulos de treino:` Exercícios organizados por nível de dificuldade e tema.
  
-✔️ `Dicas em tempo real:` O jogo informa se o palpite é maior ou menor que o número secreto.
+✔️ `Orientação a Objetos:` Prática de classes, herança, encapsulamento e polimorfismo.
  
-✔️ `Contador de tentativas:` Registra quantas tentativas foram necessárias para acertar.
+✔️ `Lógica de Programação:` Algoritmos, estruturas condicionais e laços de repetição.
  
-✔️ `Interface responsiva:` Layout adaptado para diferentes tamanhos de tela.
+✔️ `Estruturas de Dados:` Arrays, listas e manipulação de coleções em Java.
  
 ---
  
-## Demonstração
+## Estrutura do Projeto
  
-🌐 Acesse o projeto online: [jogo-azure-eta-56.vercel.app](https://jogo-azure-eta-56.vercel.app)
+```
+training-java/
+├── training/       # Módulo 1
+├── training1/      # Módulo 2
+├── training2/      # Módulo 3
+├── ...
+└── training17/     # Módulo 18
+```
  
 ---
  
 ## Ferramentas Utilizadas
  
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
  
 ---
  
 ## 📁 Acesso ao Projeto
  
-Você pode [acessar o código fonte do projeto](https://github.com/Augustin-Cyber-Dev/jogo-do-numero-secreto) ou baixá-lo clicando [aqui](https://github.com/Augustin-Cyber-Dev/jogo-do-numero-secreto/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/Augustin-Cyber-Dev/training-java) ou baixá-lo clicando [aqui](https://github.com/Augustin-Cyber-Dev/training-java/archive/refs/heads/main.zip).
  
 ---
  
